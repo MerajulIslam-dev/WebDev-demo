@@ -1,2 +1,2 @@
 # WebDev-demo
-This is an student account GitHub for underStanding  the environment.
+This is an student account GitHub for underStanding  the environment
